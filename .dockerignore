@@ -1,0 +1,4 @@
+# Ignore everything except the target folder (where your jar is)
+**
+
+!/target/
